@@ -24,6 +24,12 @@ Kesinlikle sıraya göre oku.
 1. [Shell00](./projects/Shell00/README.md)
 2. [Shell01](./projects/Shell01/README.md)
 
+### Cep kütüphanesi
+
+Bazı konseptler var, onları ayrı dosyalarda okuman daha mantıklı.
+
+1. [Git](./lib/git.md)
+
 ## Müzik
 
 Bu işler biraz kişisel şeyler, ama müzik hayata bakış açını doğrudan etkiler.
