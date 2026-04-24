@@ -19,8 +19,16 @@ Okuman gerek, bir el kitabı gibi.
 
 ## İçerik
 
-Okuma sırası yoktur, ama burda yazan sırayla projeleri okuyabilirsin.
+Kesinlikle sıraya göre oku.
 
-### Kütüphane
+1. [Shell00](./projects/Shell00/README.md)
+2. [Shell01](./projects/Shell01/README.md)
 
-### Projeler
+## Müzik
+
+Bu işler biraz kişisel şeyler, ama müzik hayata bakış açını doğrudan etkiler.
+Bu playlistleri dinlerken okumanızı ve çalışmanızı tavsiye ederim.
+
+1. [Legacy Maintenance](https://open.spotify.com/playlist/0e5QfOTEW2BNNxtKmBDppu?si=371e6af0cc684477): Rutin iş kafaları.
+2. [The Radio Technician’s Last Shift](https://open.spotify.com/playlist/13NbN6QZiVQ01RlJE3NW75?si=21ecb0daddec443c):  Rusça, "bitmişlik" hissi.
+3. [Atomic Burnout](https://open.spotify.com/playlist/3OPmPIC6nwKv2aqLVhWQfU?si=1ce47c815bd2406f): Fallout, çökmüşlük veya yıkılmışlık ama var olmak.
