@@ -1,34 +1,32 @@
 # 42ce
 
-Bilgisayar bilimlerine 42 havuzu ile girince işler biraz zor olabiliyor.
-Normalde kod yazan birisiysende zor olabilir.
-Çünkü 42 modern sistemi günü gününe takip etmiyor.
+> "42ce" Projesi Ulus Tech birim yöneticisi Whoam tarafından yazılır. Her bilgi onun azından anlatılır.
+> Bu metni okurken, burada geçen şeylerin büyük çoğunluğunun Whoam tarafından yazıldığını unutmayın
+> Yani anlatılanlar Ulus organizasyonunun ağzından çıkmamaktadır.
+
+Bilgisayar bilimlerine 42 ile girmek işleri baya zorlaştırıyor.
+Günlük hayatta, belki iş olarak kod yazan birisiysende aynı etkiyi yaratabilecek kadar özel bir sistemi var 42'nin.
+Bunun en büyük nedeni 42'nin modern sistemi günü gününe etmemsi.
 
 Bu yolda **sana** yardımcı olabilirim, ama anlatımlarım içerisinde kendi ideolojilerimin bulunacağını unutma.
 Yani okuyacağın herşey taraflı.
 Normalde de taraflı, ama tarafsız olmaya çalışan kaynaklar gibi olmayacağım.
 
-Tarih bazlı bir anlatım kullanacağım, bu sana zaman içerisindeki değişimin nedenleri hakkındaki mantığı sağlayacak.
+Tarih bazlı bir anlatım kullanacağım, ve bu sana zaman içerisindeki değişimin nedenleri hakkındaki mantığı sağlayacak.
 
-Proje bazlı anlatacağım, her projenin kendi dosyası olacak.
-Üçüncü parti bilgiler için ayrı dosyalar olacak.
-İlgilendiğin bir konu maviyse üstüne tıklayıp detaylarına bakabilirsin.
+Burdan seni başlattığım andan itibaren seni dosya dosysa ilerleteceğim.
+Gösterdiğim yoldan çıkmanı tavsiye etmiyorum.
+Bu bilgiler parçalandığına bir anlam ifade etmeyecek.
+Sen oku, ben sana yolu göstereceğim.
 
 Burda hiç bir zaman doğrudan cevaplar olmayacak.
 Okuman gerek, bir el kitabı gibi.
 
-## İçerik
+## Bilgisayar bilimlerinin tarihi
 
-Kesinlikle sıraya göre oku.
+Tarihi ile bilmek işini çokça kolaylaştıracak.
 
-1. [Shell00](./projects/Shell00/README.md)
-2. [Shell01](./projects/Shell01/README.md)
-
-### Cep kütüphanesi
-
-Bazı konseptler var, onları ayrı dosyalarda okuman daha mantıklı.
-
-1. [Git](./lib/git.md)
+[./bilgisayar-bilimleri-tarihi.md](./bilgisayar-bilimleri-tarihi.md)
 
 ## Müzik
 
