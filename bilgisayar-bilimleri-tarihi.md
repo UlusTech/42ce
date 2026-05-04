@@ -55,3 +55,7 @@ Biz bilgisayarlara bi program çıkarıyoruz, ders programı çıkarır gibi; on
 Kullandığın yazılım dili yapmak istediğin şeyi bir çeviri aracından geçirerek makinanın anlayacağı şekle getiriyor.
 Çeviren alete "Compiler" yani derleyici diyoruz.
 
+Genellikle Assembly gibi daha alt seviye diller üzerinden makinenin anlayacağı elektrik sinyallerine dönüştürür
+Bu seviyede işlemcin (CPU), yani bilgisayarı çekip çeviren çip (bir parça) denilenleri hemen anlıyor.
+Bunun da bir alt seviyesinde, CPU verdiğin her bir emiri aslında elektrik seviyesinde matematiksel işlem yaparak anlıyor.
+
