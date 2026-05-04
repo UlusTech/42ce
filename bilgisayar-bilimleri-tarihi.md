@@ -27,7 +27,8 @@ Hesap makinası ile aynı şey değil; hesap makinası çoğu zaman tek bir hesa
 ![Örnek: "Hesap makinası: Süreç yok, tek seferlik işlemler", "Bilgisayar: "Süreç boyunca aktif işlemler""](./assets/ComputerVsCalculatorExample.png)
 
 "Computer", planlanan şekilde matematiksel formülleri kullanarak sıralı matematiksel hesaplamalarda bulunur ve bu hesaplamaları çeşitli işler için kullanır.
-Planlanan derken, "Plan" zaten "Program" yani "Yazılım" demektir.
+Planlanan derken, "Plan" zaten "Program" demektir.
+E planı yazarız, Program da "Yazılım" demektir.
 Biz bilgisayarlara bi program çıkarıyoruz, ders programı çıkarır gibi; onlar da bizim söylediklerimizi yapıyor.
 
 "Computer"in parladığı konum da hesaplamaları bir programa göre yapması, bu sonuçları programlar arası veya içi bir şekilde kullanmasıdır.
