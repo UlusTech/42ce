@@ -22,7 +22,7 @@ Gösterdiğim yoldan çıkmanı tavsiye etmiyorum.
 Bu bilgiler parçalandığına bir anlam ifade etmeyecek.
 Sen oku, ben sana yolu göstereceğim.
 
-Burda hiç bir zaman doğrudan cevaplar olmayacak.
+Burda hiçbir zaman doğrudan cevaplar olmayacak.
 Okuman gerek, bir el kitabı gibi.
 
 Şurdan başla: [./bilgisayar-bilimleri-tarihi.md](./bilgisayar-bilimleri-tarihi.md)
