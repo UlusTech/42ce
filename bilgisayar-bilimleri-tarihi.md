@@ -15,7 +15,7 @@ Bilgisayarlar bilgi saymaz, hesaplama yapar.
 Türkçemizde bir "yanlış teknik isimlendirme" problemi var; buna en iyi örnek RAM ve Anabellek terimleştirilmesi.
 RAM bir sözcük değildir, bir kısaltmadır.
 Buna rağmen çevirisi "Anabellek" olarak kullanılır.
-Bu mantıksızdır; RAM "Rastgele erişilebilen hafıza" demektir, "Ana" olan hiç bir kısmı yoktur.
+Bu mantıksızdır; RAM "Rastgele erişilebilen hafıza" demektir, "Ana" olan hiçbir kısmı yoktur.
 
 Bu isimlendirme hataları nedeniyle ingilizce, veya avrupayi diller üzerinden düşünmeniz gerek.
 Çünkü bilgisayar bilimleri Türkçede kolayca anlaşılabilecek bir durumda değil.
