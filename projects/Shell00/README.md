@@ -29,9 +29,9 @@ Normalde shell olmasa her yapmak istediğin iş için gider elle kod yazar sonra
 - Bazı dosya veya klasörlerde düzenleme, okuma veya çalıştırma yetkin olmayabilir. Çalışırken bunu gözden geçirmeyi unutma. Yetkilerinin olduğu bir klasörde çalış. Ben masaüstünü kullanmanı öneririm.
 - Egzersizi yaptığında proje klasöründe, alakadar egersiz klasöründe gerekli dosyaları vermen gerek bunu unutma. Bununla birlikte tüm egzersizleri teker teker commitlemeni tavsiye ederim.
 - Yaptığın herşey havuzdaki başka kişiler tarafından kontrol edilecek ve sonrasında "Moulinette" adında bir test programı otomatik kontorllerini yapacak.
-- Moulinette baya kesin sınırları olan bir sistem. Tamamen otomatik ve hiç bir "aması" yoktur. Evoda elemek gerek o yüzden hataları.
+- Moulinette baya kesin sınırları olan bir sistem. Tamamen otomatik ve hiçbir "aması" yoktur. Evoda elemek gerek o yüzden hataları.
 - Bilgisayarınızda `/bin/sh` konumunda bir program var. Tüm shell egzersizleri bu program tarafından çalıştırabilir olmalı. Terminale `/bin/sh DOSYA-ADI` yazarak test edebilirsin. Bunu gerektiren bir egzersiz olan [ex04](./subject.tr.md#viii-alıştırma-04-midls) ile bir örnek: `/bin/sh midLS`
-- Egzersiz klaösründe sadece teslim edilmesi istenen dosya(lar) bulunmalı. Kesinlikle başka hiç bir ek dosya olmamalı.
+- Egzersiz klaösründe sadece teslim edilmesi istenen dosya(lar) bulunmalı. Kesinlikle başka hiçbir ek dosya olmamalı.
 - Konuları araştırmak için Google kullan, AI overview'a bak ama sadece onu okuyup sakın geçme. Komutlarda da komutun başına man (manuel'in kısaltması) yazarak komut açıklamasını alabilirsin.
 - Örnekleri dikkatlice incele, bazı gereksinimler açık açık yazmıyor olabilir. Dosya boyutları, tarihleri vb.
 
