@@ -111,3 +111,9 @@ Binary 2 sembolle (0,1) çalıştığı için 2'de taşıyor, decimal 10 semboll
 Yani sembol yetmezse yeni haneye geçersin.
 
 2 işaret ile sayı göstermeye "binary", 10 işaret ile sayı göstermeye "decimal", veya sümerlerin kullandığı 60lık sistemdeki gibi 60 adet temel birim (yani işaret) kullanmaya "seksagesimal" denir.
+
+"9x3 nasıl hesaplanıyor, haneler tamam ama işlem nasıl oluyor?" [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra) yani [Boole cebiri](https://tr.wikipedia.org/wiki/Boole_cebiri) ile!
+
+Transistörler, Boolean algebra ile tanımlanan [mantık kapılarını](https://tr.wikipedia.org/wiki/Mant%C4%B1ksal_kap%C4%B1) ([logic gate](https://en.wikipedia.org/wiki/Logic_gate)) oluşturur.
+Bu kapılar bir araya gelince toplama, çarpma gibi işlemler yapabilen devreler ortaya çıkar.
+9x3 de sonunda bu devrelerde hesaplanıyor.
