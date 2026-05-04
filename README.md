@@ -1,20 +1,23 @@
 # 42ce
 
-> "42ce" Projesi Ulus Tech birim yöneticisi Whoam tarafından yazılır. Her bilgi onun azından anlatılır.
-> Bu metni okurken, burada geçen şeylerin büyük çoğunluğunun Whoam tarafından yazıldığını unutmayın
-> Yani anlatılanlar Ulus organizasyonunun ağzından çıkmamaktadır.
+> "42ce" Projesi Ulus Tech birim yöneticisi [Whoam](https://github.com/W-Whoam) tarafından yazılır. Her bilgi onun ağzından anlatılır.
+> Bu metni okurken, burada geçen şeylerin büyük çoğunluğunun [Whoam](https://github.com/W-Whoam) tarafından yazıldığını unutmayın
+> Yani anlatılanlar Ulus'un değil, [Whoam](https://github.com/W-Whoam)'ın sözleridir.
 
 Bilgisayar bilimlerine 42 ile girmek işleri baya zorlaştırıyor.
-Günlük hayatta, belki iş olarak kod yazan birisiysende aynı etkiyi yaratabilecek kadar özel bir sistemi var 42'nin.
+42'nin sistemi, yazılımcılığı gündelik olarak yapan insanları da zorlayacak bir biçimde.
 Bunun en büyük nedeni 42'nin modern sistemi günü gününe etmemsi.
 
-Bu yolda **sana** yardımcı olabilirim, ama anlatımlarım içerisinde kendi ideolojilerimin bulunacağını unutma.
+42 yolcuğuunda sana yardımcı olabilirim, ama anlatımlarım içerisinde kendi ideolojilerimin bulunacağını unutma.
 Yani okuyacağın herşey taraflı.
 Normalde de taraflı, ama tarafsız olmaya çalışan kaynaklar gibi olmayacağım.
 
-Tarih bazlı bir anlatım kullanacağım, ve bu sana zaman içerisindeki değişimin nedenleri hakkındaki mantığı sağlayacak.
+İşlemcinin ne olduğunu bilmek yetmez; neden ve ne zaman, ne için var olduğunu bilmekte gerek.
+Bu nedenle anlatım tarih bazı olacak.
+Herşeyin sebebini bileceksin.
+Sadece kodları değil, kodların nedenlerini de bileceksin.
 
-Burdan seni başlattığım andan itibaren seni dosya dosysa ilerleteceğim.
+Dosya dosya ilerleyeceksin.
 Gösterdiğim yoldan çıkmanı tavsiye etmiyorum.
 Bu bilgiler parçalandığına bir anlam ifade etmeyecek.
 Sen oku, ben sana yolu göstereceğim.
@@ -22,15 +25,11 @@ Sen oku, ben sana yolu göstereceğim.
 Burda hiç bir zaman doğrudan cevaplar olmayacak.
 Okuman gerek, bir el kitabı gibi.
 
-## Bilgisayar bilimlerinin tarihi
-
-Tarihi ile bilmek işini çokça kolaylaştıracak.
-
-[./bilgisayar-bilimleri-tarihi.md](./bilgisayar-bilimleri-tarihi.md)
+Şurdan başla: [./bilgisayar-bilimleri-tarihi.md](./bilgisayar-bilimleri-tarihi.md)
 
 ## Müzik
 
-Bu işler biraz kişisel şeyler, ama müzik hayata bakış açını doğrudan etkiler.
+Bu işler biraz kişisel şeyler, ama müzik konulara bakış açını doğrudan etkiler.
 Bu playlistleri dinlerken okumanızı ve çalışmanızı tavsiye ederim.
 
 1. [Legacy Maintenance](https://open.spotify.com/playlist/0e5QfOTEW2BNNxtKmBDppu?si=371e6af0cc684477): Rutin iş kafaları.
