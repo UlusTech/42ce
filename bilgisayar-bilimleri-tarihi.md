@@ -41,7 +41,7 @@ Bilgisayar sözcüğü, yanlış anlaşılmaya kurban gitmiştir.
 İngilizcede bilgisayarlara "Computer" (kom-pü-ter) yani "Hesaplayıcı" denir.
 Hesap makinesi ile aynı şey değil; hesap makinesi çoğu zaman tek bir hesaplama yapar ve sonuç verir.
 
-![Örnek: "Hesap makinası: Süreç yok, tek seferlik işlemler", "Bilgisayar: "Süreç boyunca aktif işlemler""](./assets/ComputerVsCalculatorExample.png)
+![Örnek: "Hesap makinesi: Süreç yok, tek seferlik işlemler", "Bilgisayar: "Süreç boyunca aktif işlemler""](./assets/ComputerVsCalculatorExample.png)
 
 "Computer", planlanan şekilde matematiksel formülleri kullanarak sıralı matematiksel hesaplamalarda bulunur ve bu hesaplamaları çeşitli işler için kullanır.
 Planlanan derken, "Plan" zaten "Program" demektir.
