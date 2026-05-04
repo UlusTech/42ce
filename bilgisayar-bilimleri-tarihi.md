@@ -63,3 +63,51 @@ Bunun da bir alt seviyesinde, CPU verdiğin her bir emiri aslında elektrik sevi
 Bu transistörler matematiksel hesaplamaları yapmamızı sağlayan arkadaşların ta kendisi!
 Transistörleri kullanarak gelen elektrik sinyalleri ile matematiksel işlemler yapabiliyoruz.
 
+"E bilgisayarlar 0 ve 1ler ile çalışmıyor mu, nasıl 9x3'ü hesaplıyoruz?"
+Eğer işleri 0 ve 1 kullanıyoruz diye basitleştirirsek evet, saçma derecede yetersiz geliyor bu sayılarla sınırlı kalmak.
+Ama işin aslı öyle değil; biz binary kullanıyoruz.
+
+Binary, veya "ikilik sistem"; sayarken 10 parmağımız yerine sadece ellerimizi kullanmamız demek.
+Şuan 23 sayısını göstermek için ellerinizle ne yaparsınız? 2 tane on, bir tane 3.
+Binary'de de aynısını yapıyoruz! Eğer tek seferde sayıyı gösteremezsek, daha fazla elimizdeki sayıları kullanıyoruz.
+
+Binary'de sayılar şöyle gözükür:
+*(Decimal - Binary)*
+
+```text
+0  = 0
+1  = 1
+2  = 10
+3  = 11
+4  = 100
+5  = 101
+6  = 110
+7  = 111
+8  = 1000
+9  = 1001
+10 = 1010
+11 = 1011
+```
+
+10luk sistemde 0-9 arası tek haneli, 10'da ikinci haneye geçiyorsun — binary'de bu 2'de oluyordu:
+
+```text
+0  = 0
+1  = 1
+2  = 2
+3  = 3
+4  = 4
+5  = 5
+6  = 6
+7  = 7
+8  = 8
+9  = 9
+10 = 10
+11 = 11
+```
+
+Binary 2 sembolle (0,1) çalıştığı için 2'de taşıyor, decimal 10 sembolle (0-9) çalıştığı için 10'da taşıyor. Mantık aynı, sembol sayısı farklı.
+
+Yani sembol yetmezse yeni haneye geçersin.
+
+2 işaret ile sayı göstermeye "binary", 10 işaret ile sayı göstermeye "decimal", veya sümerlerin kullandığı 60lık sistemdeki gibi 60 adet temel birim (yani işaret) kullanmaya "seksagesimal" denir.
