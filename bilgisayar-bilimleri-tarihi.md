@@ -17,7 +17,10 @@ RAM bir sözcük değildir, bir kısaltmadır.
 Buna rağmen çevirisi "Anabellek" olarak kullanılır.
 Bu mantıksızdır; RAM "Rastgele erişilebilen hafıza" demektir, "Ana" olan hiçbir kısmı yoktur.
 
-Bu isimlendirme hataları nedeniyle ingilizce, veya avrupayi diller üzerinden düşünmeniz gerek.
+<details>
+<summary>Aslında bu amaç için türetilmedi, ama yanlış kullanılıyor.</summary>
+"Ana Bellek" (Main Memory) terimi, modern von Neumann mimarisindeki işlevsel rolünden gelir. Yani kelimenin çevirisi değil, mimarideki görevinin adıdır.
+</details>
 Çünkü bilgisayar bilimleri Türkçede kolayca anlaşılabilecek bir durumda değil.
 Kod yazımları da ingilizcedeki dil yapısına daha yakın.
 Ama korkmayın, yolda ingilizce öğrenebilirsiniz.
