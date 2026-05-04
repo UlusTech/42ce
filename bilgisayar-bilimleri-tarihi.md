@@ -21,6 +21,8 @@ Bu mantıksızdır; RAM "Rastgele erişilebilen hafıza" demektir, "Ana" olan hi
 <summary>Aslında bu amaç için türetilmedi, ama yanlış kullanılıyor.</summary>
 "Ana Bellek" (Main Memory) terimi, modern von Neumann mimarisindeki işlevsel rolünden gelir. Yani kelimenin çevirisi değil, mimarideki görevinin adıdır.
 </details>
+Bilgisayar da bilgi saymaz, nasıl sayacak ki?
+Senin söylemen lazım; programlaman.
 <details>
 <summary>Temelde anlam aslında yine iyi, ama yanlış anlaşılıyor.</summary>
 Bu kelimeyi Türkçeye kazandıran Prof. Dr. Aydın Köksal'dır ve "saymak" fiilini sadece "1, 2, 3" diye saymak anlamında değil, "verileri işlemek, dökmek ve tasnif etmek" (information processing) anlamında türetmiştir.
