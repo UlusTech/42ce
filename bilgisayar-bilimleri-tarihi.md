@@ -31,6 +31,7 @@ Senin söylemen lazım; programlaman.
 Bu kelimeyi Türkçeye kazandıran Prof. Dr. Aydın Köksal'dır ve "saymak" fiilini sadece "1, 2, 3" diye saymak anlamında değil, "verileri işlemek, dökmek ve tasnif etmek" (information processing) anlamında türetmiştir.
 </details>
 
+Bu isimlendirme konuları nedeniyle ingilizce, veya Avrupa dilleri üzerinden düşünmeniz gerek.
 Çünkü bilgisayar bilimleri Türkçede kolayca anlaşılabilecek bir durumda değil.
 Kod yazımları da ingilizcedeki dil yapısına daha yakın.
 Ama korkmayın, yolda ingilizce öğrenebilirsiniz.
