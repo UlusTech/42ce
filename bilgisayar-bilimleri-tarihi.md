@@ -52,7 +52,7 @@ Biz bilgisayarlara bi program çıkarıyoruz, ders programı çıkarır gibi; on
 
 "E peki hiç çarpma bölme işlemi yapmadığım bir uygulama nasıl çalışıyor?" sorusu çok mantıklı ve basit; sen yapmıyorsun ama, senin için yapıyorlar.
 
-Kullandığın yazılım dili yapmak istediğin şeyi bir çeviri aracından geçirerek makinanın anlayacağı şekle getiriyor.
+Kullandığın yazılım dili yapmak istediğin şeyi bir çeviri aracından geçirerek makinenin anlayacağı şekle getiriyor.
 Çeviren alete "Compiler" yani derleyici diyoruz.
 
 Genellikle Assembly gibi daha alt seviye diller üzerinden makinenin anlayacağı elektrik sinyallerine dönüştürür
