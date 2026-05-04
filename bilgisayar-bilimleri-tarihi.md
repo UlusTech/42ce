@@ -1,4 +1,5 @@
 # Bilgisayar bilimleri tarihi
+<!-- markdownlint-disable MD033 -->
 
 Kod yazmadan önce bilmeniz gereken çok şey var.
 
