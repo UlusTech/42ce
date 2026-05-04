@@ -3,7 +3,10 @@
 Kod yazmadan önce bilmeniz gereken çok şey var.
 
 Bilgisayar bilimleri çook eski bir konsept.
-Son 50 yıldaki gelişim gözümüze "bilgi saymak" konseptinin batmasına neden olsa da, bu işler baya eskiye dayanıyor.
+Son 60 yıldaki internet gibi yenilikler bilgisayara çok sihirli bir anlam yüklüyor.
+Bu yüzden bilgisayar "bilgi sayıyormuş", bişeyler yapıyormuş gibi hissediyoruz.
+
+Ama günün sonunda hepsibir avuç matematik formülü.
 
 **BİLGİSAYAR YANLIŞ BİR SÖZCÜK!**
 
