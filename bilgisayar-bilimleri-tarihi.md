@@ -117,3 +117,9 @@ Yani sembol yetmezse yeni haneye geçersin.
 Transistörler, Boolean algebra ile tanımlanan [mantık kapılarını](https://tr.wikipedia.org/wiki/Mant%C4%B1ksal_kap%C4%B1) ([logic gate](https://en.wikipedia.org/wiki/Logic_gate)) oluşturur.
 Bu kapılar bir araya gelince toplama, çarpma gibi işlemler yapabilen devreler ortaya çıkar.
 9x3 de sonunda bu devrelerde hesaplanıyor.
+
+Bunlar uzun ver derin konular. Şimdiye kadar verdiğim detaylar sadece giriş.
+Yani bunların hepsi "önsöz" gibi bişeydi.
+
+Her bir konsept için, sırasıyla, seni gitmen gereken yere yölendirken dosyalar olacak. <!-- eklendiğinde var diye düzelt -->
+Onları sırasıyla okuduğunda anlayacaksın.
