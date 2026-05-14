@@ -65,3 +65,24 @@ Bu egzersizin bizden beklediği dosyayı oluşturmak için `echo` yazmalı, `"Z"
 ```sh
 echo "Z" > z
 ```
+
+*Tırnak içinde yazmasanız da çalışır, ama ben tırnak içinde yazmaya alışığım, boşluk olunca işime geliyor.*
+
+Oluşturuğunuz dosyayı kontrol etmek için cat komutunu kullanarak dosyanın içeriğini terminale yazdırabilirsiniz.
+
+```sh
+cat z
+```
+
+*Bu komut "z dosyasının içini okut" demektir.
+
+## [Exercise 1](./subject.tr.md#v-egzersiz-01-testshell00)
+
+Bu egzersiz biraz "tricky".
+
+Bizden `testShell00` adında bir dosya oluşturmamızı istiyor ama bu dosyanın tarihi, yetkileri ve boyutunun belirttiği şekilde olmasını istiyor.
+
+### Yetkiler
+
+Tüm dosya ve klasörlerin yetkileri vardır.
+Bu yetkiler dosyaları kimin düzenleyebileceğini gösterir.
