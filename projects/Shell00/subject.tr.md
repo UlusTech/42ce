@@ -19,26 +19,26 @@
     - [Aşama Çıktıları](#aşama-çıktıları)
     - [Yorumlar ve Örnek](#yorumlar-ve-örnek)
   - [III. Önsöz](#iii-önsöz)
-  - [IV. Alıştırma 00: Z](#iv-alıştırma-00-z)
-  - [V. Alıştırma 01: testShell00](#v-alıştırma-01-testshell00)
-  - [VI. Alıştırma 02: Oh yeah, mooore](#vi-alıştırma-02-oh-yeah-mooore)
-  - [VII. Alıştırma 03: SSH me](#vii-alıştırma-03-ssh-me)
-  - [VIII. Alıştırma 04: midLS](#viii-alıştırma-04-midls)
-  - [IX. Alıştırma 05: GiT commit](#ix-alıştırma-05-git-commit)
+  - [IV. Alıştırma 00: Z](#iv-çalışma-00-z)
+  - [V. Alıştırma 01: testShell00](#v-çalışma-01-testshell00)
+  - [VI. Alıştırma 02: Oh yeah, mooore](#vi-çalışma-02-oh-yeah-mooore)
+  - [VII. Alıştırma 03: SSH me](#vii-çalışma-03-ssh-me)
+  - [VIII. Alıştırma 04: midLS](#viii-çalışma-04-midls)
+  - [IX. Alıştırma 05: GiT commit](#ix-çalışma-05-git-commit)
     - [Kilometre Taşına Ulaştınız, Devam Edin](#kilometre-taşına-ulaştınız-devam-edin)
-  - [X. Alıştırma 06: gitignore](#x-alıştırma-06-gitignore)
-  - [XI. Alıştırma 07: diff](#xi-alıştırma-07-diff)
-  - [XII. Alıştırma 08: clean](#xii-alıştırma-08-clean)
-  - [XIII. Alıştırma 09: Illusions, not tricks, Michael](#xiii-alıştırma-09-illusions-not-tricks-michael)
+  - [X. Alıştırma 06: gitignore](#x-çalışma-06-gitignore)
+  - [XI. Alıştırma 07: diff](#xi-çalışma-07-diff)
+  - [XII. Alıştırma 08: clean](#xii-çalışma-08-clean)
+  - [XIII. Alıştırma 09: Illusions, not tricks, Michael](#xiii-çalışma-09-illusions-not-tricks-michael)
   - [XIV. Teslim ve Akran Değerlendirmesi](#xiv-teslim-ve-akran-değerlendirmesi)
 
 ---
 
 ## I. Talimatlar
 
-- Bu alıştırmalar, kolaydan zora doğru sıralanmıştır. Daha kolay bir alıştırma tam olarak çalışmıyorsa, daha zor bir alıştırmayı başarıyla tamamlamış olmanız değerlendirmeye **alınmaz**.
+- Bu alıştırmalar, kolaydan zora doğru sıralanmıştır. Daha kolay bir çalışma tam olarak çalışmıyorsa, daha zor bir alıştırmayı başarıyla tamamlamış olmanız değerlendirmeye **alınmaz**.
 - Dosya ve dizinlerin üzerinde gerekli izinlere sahip olduğunuzdan emin olun.
-- Her alıştırma için **teslim prosedürlerine** uymanız zorunludur.
+- Her çalışma için **teslim prosedürlerine** uymanız zorunludur.
 - Alıştırmalarınız sınıf arkadaşlarınız tarafından kontrol edilip notlandırılacaktır.
 - Bunun yanı sıra, alıştırmalarınız **Moulinette** adlı bir program tarafından da kontrol edilecek ve notlandırılacaktır.
 - **Moulinette**, değerlendirmesinde son derece titiz ve katıdır. Tamamen otomatiktir ve onunla müzakere etmenin hiçbir yolu yoktur. Sürprizlerle karşılaşmamak için olabildiğince dikkatli olun.

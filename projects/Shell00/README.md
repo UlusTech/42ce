@@ -1,5 +1,5 @@
 # C Piscine Shell 00
-
+<!-- markdownlint-disable MD033 -->
 Ana olarak [subject PDF'i](https://cdn.intra.42.fr/pdf/pdf/197002/en.subject.pdf) üzerinden gideceğiz.
 AI ile PDF'i markdown'a çevirdim, [subject.md](./subject.md) ve [subject.tr.md](./subject.tr.md) dosyalarını inceleyebilirsiniz.
 
@@ -22,20 +22,20 @@ Normalde shell olmasa her yapmak istediğin iş için gider elle kod yazar sonra
 
 Çoğu shell benzerdir. Unix-like diye bir konsept var, zamanında Unix diye bir işletim sistemindeki komutlar aynı isimlerle kullanılmaya devam ediyor. Bu standartın adı "POSIX shell" diye geçer. O dosya boyutları bayt bit falan mevzuları vs hepsi POSIXten geliyor. Zorunlu mu? Değil, ama sistemler benzer olursa işler verimli oluyor.
 
-[Chapter 1](./subject.tr.md#i-talimatlar) hakkında:
+## [Chapter 1](./subject.tr.md#i-talimatlar)
 
 - Egzersizler kolaydan zora doğru gidiyor.
 - Birinde hata yaptığın zaman o egzersiden itibaren geri kalanıların hepsi görmezden geliniyor. Yani evoya gelen de hata bulduğunda evoyu durduruyor (hata bulunduğu gibi bırakmaya gerek yok, ama sonraki egzersizler uygun olsa bile "uygun" işaretleyemiyorsun, yani sistem hata yaptığında kapanıyor).
 - Bazı dosya veya klasörlerde düzenleme, okuma veya çalıştırma yetkin olmayabilir. Çalışırken bunu gözden geçirmeyi unutma. Yetkilerinin olduğu bir klasörde çalış. Ben masaüstünü kullanmanı öneririm.
 - Egzersizi yaptığında proje klasöründe, alakadar egersiz klasöründe gerekli dosyaları vermen gerek bunu unutma. Bununla birlikte tüm egzersizleri teker teker commitlemeni tavsiye ederim.
 - Yaptığın herşey havuzdaki başka kişiler tarafından kontrol edilecek ve sonrasında "Moulinette" adında bir test programı otomatik kontorllerini yapacak.
-- Moulinette baya kesin sınırları olan bir sistem. Tamamen otomatik ve hiçbir "aması" yoktur. Evoda elemek gerek o yüzden hataları.
-- Bilgisayarınızda `/bin/sh` konumunda bir program var. Tüm shell egzersizleri bu program tarafından çalıştırabilir olmalı. Terminale `/bin/sh DOSYA-ADI` yazarak test edebilirsin. Bunu gerektiren bir egzersiz olan [ex04](./subject.tr.md#viii-alıştırma-04-midls) ile bir örnek: `/bin/sh midLS`
+- Moulinette baya kesin sınırları olan bir sistem. Tamamen otomatik ve hiçbir "aması" yoktur. Bu nedenle hataları evoda elemek gerek.
+- Bilgisayarınızda `/bin/sh` konumunda bir program var. Tüm shell egzersizleri bu program tarafından çalıştırabilir olmalı. Terminale `/bin/sh DOSYA-ADI` yazarak test edebilirsin. Bunu gerektiren bir egzersiz olan [ex04](./subject.tr.md#viii-çalışma-04-midls) ile bir örnek: `/bin/sh midLS`
 - Egzersiz klaösründe sadece teslim edilmesi istenen dosya(lar) bulunmalı. Kesinlikle başka hiçbir ek dosya olmamalı.
 - Konuları araştırmak için Google kullan, AI overview'a bak ama sadece onu okuyup sakın geçme. Komutlarda da komutun başına man (manuel'in kısaltması) yazarak komut açıklamasını alabilirsin.
 - Örnekleri dikkatlice incele, bazı gereksinimler açık açık yazmıyor olabilir. Dosya boyutları, tarihleri vb.
 
-[Chapter 2](./subject.tr.md#ii-yapay-zeka-talimatları) hakkında:
+## [Chapter 2](./subject.tr.md#ii-yapay-zeka-talimatları)
 
 AI kullanma. Bana sorarsan vibecoding yani AI ile proje yapma falan koca bir saçmalık. Claude.ai kendi sistemlerini AI ile yapıyor. <https://status.claude.com/> sitesinde de görebilirsin, ayda 40 saate kadar kapalı kalabiliyorlar. Dil modelleri (LLM) sana bir şey öğretemez, iyi kod yazamaz. Bunlara güvenilmez.
 
