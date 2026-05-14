@@ -48,3 +48,21 @@ Eğer AI kullanırsan bu işlerde, gerekli nöral bağlantıları kuramazsın. B
 AI kullanma, elle yaz. AI'a açıklar sorunları, sorular. Sakın kod veya sonuç alma AI'dan.
 
 Alırsan senin enayiliğin, işe bile giremezsin, mülakat bile geçemezsin. Bırak büyük hayalleri yani, AI ile bi bok olamazsın. Ha olan varsa, sen oluyorsan; bu sistemin hatası. AI yalanı, balonu patlayınca kıçının üstüne oturursun.
+
+## [Exercise 0](./subject.tr.md#iv-çalışma-00-z)
+
+Bu çalışma bizden "içerisinde Z (büyük harf) yazan, z (küçük harf) isimli bir dosya" oluşturmamızı istiyor.
+
+Bunu yapmak basit ve bir kaç yolu var.
+
+Benim de kullandığım `echo` komutu yazdığınız şeyi birebir aynısı olacak şekilde terminale geri yazdırır.
+
+`>` işaretini bir komutun EN sonuna koyup dosya ismi belirttiğinizde komutun sonucu o dosyaya yazdırılır.
+Bu işleme "Çıktı Yönlendirme (Output Redirection)"
+
+<details>
+<summary>Bu egzersizin bizden beklediği dosyayı oluşturmak için `echo` yazmalı, `"Z"` ile harfimizi hemen sonra vermeli, `>` işaretini koymalı, `z` ile dosya ismi belirlemeliyiz.</summary>
+```sh
+echo "Z" > z
+```
+</details>
