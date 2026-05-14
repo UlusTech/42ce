@@ -1,7 +1,7 @@
 # C Piscine Shell 00
 
 Ana olarak [subject PDF'i](https://cdn.intra.42.fr/pdf/pdf/197002/en.subject.pdf) üzerinden gideceğiz.
-AI ile PDF'i markdown'a çevirdim,[subject.md](./subject.md) ve [subject.tr.md](./subject.tr.md) dosyalarını inceleyebilirsiniz.
+AI ile PDF'i markdown'a çevirdim, [subject.md](./subject.md) ve [subject.tr.md](./subject.tr.md) dosyalarını inceleyebilirsiniz.
 
 Bu projeyi yapabilmek için kernel ve shell mantığını iyice kavraman lazım.
 Ayrıca git kullanmamız gerekmesi de seni git öğrenmeye itiyor.
